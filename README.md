@@ -9,11 +9,11 @@ Simple File Information Class For C++
 ```
 <b>Class features</b>
 
--Drive
--DirectoryName
--Filename
--FullName
--Extension
--Exists << endl;
--Attributes << endl;
--ReadOnly << endl;
+- Drive
+- DirectoryName
+- Filename
+- FullName
+- Extension
+- Exists << endl;
+- Attributes << endl;
+- ReadOnly << endl;
