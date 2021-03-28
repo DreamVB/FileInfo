@@ -17,3 +17,7 @@ Simple File Information Class For C++
 - Exists
 - Attributes
 - ReadOnly
+- LastAccessTime
+- CreationTime
+- Length
+
